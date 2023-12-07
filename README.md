@@ -1,6 +1,6 @@
 # Simple Tailwind Landing Page Practice
 
-This site does not include authentication, external pages, or payments. This is simply just a landing page that I built to practice using Tailwind. It is also currently not being deployed.
+This site does not include authentication, external pages, or payments. This is simply just a landing page that I built to practice using Tailwind and React. It is also currently not being deployed.
 
 Includes the following sections: Navbar, 3 hero sections (product showcase, popular products, special offer), customer reviews, subscription, and footer.
 
