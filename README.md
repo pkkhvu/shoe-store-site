@@ -1,6 +1,8 @@
 # Simple Tailwind Landing Page Practice
 
-This site does not include authentication, external pages, or payments. This is simply just a landing page that I built to practice using Tailwind. It is also currently not being deployed. 
+This site does not include authentication, external pages, or payments. This is simply just a landing page that I built to practice using Tailwind. It is also currently not being deployed.
+
+Includes the following sections: Navbar, 3 hero sections (product showcase, popular products, special offer), customer reviews, subscription, and footer.
 
 <img width="942" alt="image" src="https://github.com/pkkhvu/shoe-store-site/assets/127292983/1a3b58a6-f93c-434f-a0c5-d46a52741c90">
 
